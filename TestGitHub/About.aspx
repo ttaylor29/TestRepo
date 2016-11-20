@@ -7,8 +7,10 @@
     </hgroup>
 
     <article>
+         <h3>TitusTaylor</h3>
         <p>        
             Use this area to provide additional information.
+           
         </p>
 
         <p>        
